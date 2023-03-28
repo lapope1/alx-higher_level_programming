@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Singly Linked Lists module.
-This module contains methods about the creation and hendling of
+This module contains methods about the creation and handling of
 SinglyLinkedList and Node objects.
 """
 
