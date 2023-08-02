@@ -3,6 +3,7 @@
 <head>
     <title>My Web Page</title>
 </head>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <body>
     <header>This is the header element</header>
 
